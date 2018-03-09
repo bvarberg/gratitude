@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.words {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+}
+
+.word {
+  font-size: 2em;
+  margin: 8px 0px;
+}
+
