@@ -39,7 +39,7 @@ const words = [
   'willingness',
   'surrender',
   'delight',
-  'integrity'
+  'integrity',
   'efficiency',
   'purification',
   'play',
